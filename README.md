@@ -1,4 +1,5 @@
 # Airbrake Golang Notifier [![Build Status](https://travis-ci.org/airbrake/gobrake.svg?branch=v2)](https://travis-ci.org/airbrake/gobrake)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgobrake.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgobrake?ref=badge_shield)
 
 <img src="http://f.cl.ly/items/3J3h1L05222X3o1w2l2L/golang.jpg" width=800px>
 
@@ -58,3 +59,7 @@ airbrake.Notify(notice, nil)
 ## Logging
 
 You can use [glog fork](https://github.com/airbrake/glog) to send your logs to Airbrake.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fgobrake.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fgobrake?ref=badge_large)
